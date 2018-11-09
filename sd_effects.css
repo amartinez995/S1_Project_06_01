@@ -17,6 +17,7 @@
 html {
     background-image: url(sd_back1.png);
     background-attachment: fixed;
+    background-size: cover;
     width: 100%;
 }
 
